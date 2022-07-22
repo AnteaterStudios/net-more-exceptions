@@ -1,4 +1,4 @@
-﻿namespace AnteaterStudios.ExtraNet.MoreExceptions;
+﻿namespace AnteaterStudios.ExtraNet;
 
 public class EmptyCollectionException : ArgumentException {
     public EmptyCollectionException() { }
